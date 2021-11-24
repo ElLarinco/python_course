@@ -1,19 +1,21 @@
 # Python Course
 
-### Variables
+### Introducción
 
-### Constantes
+- Variables
 
-### Palabras reservadas
+- Constantes
 
-### Comentarios
+- Palabras reservadas
 
-### Tipos de datos
+- Comentarios
 
-### Tipado dinámico
+- Tipos de datos
 
-### Operadores relacionales
+- Tipado dinámico
 
-### Operadores lógicos
+- Operadores relacionales
 
-### Casting
+- Operadores lógicos
+
+- Casting
